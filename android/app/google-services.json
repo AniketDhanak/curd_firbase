@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "480494136531",
+    "firebase_url": "https://curd-6309b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "curd-6309b",
+    "storage_bucket": "curd-6309b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480494136531:android:09d7cd8fd99aba82213826",
+        "android_client_info": {
+          "package_name": "com.aniket.curd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwkgKDt8yh_4KyTJzzyxGSDALqe9qqzxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
